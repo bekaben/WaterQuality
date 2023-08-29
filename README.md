@@ -1,4 +1,3 @@
-# WaterQuality
-Water Quality Monitoring Solution Based on DE10-NAno
-This project is started within the InnovateFPGA contest www.innovateFPGA.com
+# Precise Irrigation and Smart Water Resources Management
+Water Quality Monitoring Solution Based on Single Pair Ethernet (SPE), the goal aims to monitor Water quality, Soil moisture, and  assume crop irrigation. 
 
